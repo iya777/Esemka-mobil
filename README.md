@@ -1,3 +1,5 @@
+# Project Tugas Kuliah Aplikasi Berbasis Platform (5 Anggota Tim, 2 Front-End, 3 Back-End)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
